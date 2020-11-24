@@ -7,3 +7,5 @@ alphonse
 landmark
 jeffery
 nji
+valido
+davido
